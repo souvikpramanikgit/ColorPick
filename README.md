@@ -1,4 +1,3 @@
-# ColorPick
 # 🎨 ColorPick
 
 [![License](https://img.shields.io/github/license/souvikpramanikgit/ColorPick)](LICENSE) ![GitHub last commit](https://img.shields.io/github/last-commit/souvikpramanikgit/ColorPick) ![GitHub repo size](https://img.shields.io/github/repo-size/souvikpramanikgit/ColorPick)
@@ -12,12 +11,6 @@ A simple and lightweight color picker tool that allows users to select and copy 
 - 📋 **Copy to Clipboard**: Instantly copy the color code with a single click.
 - ⚡ **Fast and Lightweight**: Optimized for performance with minimal dependencies.
 - 🌙 **Dark Mode Support**: Adaptive color palette based on user's system preferences.
-
-## 🖼️ Screenshots
-
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/a7b85b5a-cfc3-40d5-9210-13b0dc851f0d)
-</p>
 
 ## 🚀 Getting Started
 
@@ -34,8 +27,29 @@ To run this project, you will need:
    ```bash
    git clone https://github.com/souvikpramanikgit/ColorPick.git
 
-Souvik Pramanik - Your Email
+2. Open the `index.html` file in your browser to use the color picker.
 
-Project Link: https://github.com/souvikpramanikgit/ColorPick
+### Usage
 
+* **Pick a Color**: Click anywhere on the color spectrum to select your desired color.
+* **Copy Code**: Click the copy button next to the color format to copy it to your clipboard.
 
+## 🛠️ Built With
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and create a pull request. For major changes, please open an issue to discuss what you would like to change.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
+3. Commit your Changes (`git commit -m 'Add some feature'`)
+4. Push to the Branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
